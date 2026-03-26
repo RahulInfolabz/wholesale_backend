@@ -1,0 +1,24 @@
+====================================================
+  WHOLESALE MARKETPLACE — MongoDB Collection Names
+====================================================
+
+Database Name : wholesale_platform
+
+Collections:
+1. users
+2. categories
+3. brands
+4. products
+5. product_inquiries
+6. general_inquiries
+7. feedbacks
+
+====================================================
+  HOW TO RUN SEED DATA
+====================================================
+
+Step 1: Make sure .env has correct MONGO_URI
+Step 2: Run the following command:
+        node seed.js
+
+====================================================
